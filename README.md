@@ -39,7 +39,7 @@ Ensure you have your OpenAI API key stored in an environment variable named `OPE
 
 ### Run the script:
 
-```bash
+bash
 python generate_report.py
 
 ## Usage Instructions
